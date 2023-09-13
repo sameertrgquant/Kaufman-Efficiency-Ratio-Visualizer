@@ -1,4 +1,4 @@
-# Kaufman-Efficiency-Ratio-Visualizer
+# Kaufman efficiency-based trend recognizer 
 
 Kaufman- efficiency ratio is developed by the Perry kaufman, this ratio helps the traders recognizing the noisy markets and the trending ones thus they can trade with the more precision 
 
